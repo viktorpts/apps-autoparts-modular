@@ -1,0 +1,10 @@
+[x] User session
+[x] Delete parts
+[x] Edit parts
+[x] Notifications
+[x] Better input feedback
+[x] Improved error reporting
+[x] Loading indicators
+[x] Search
+[x] Catalog pagination
+[ ] Modals?
